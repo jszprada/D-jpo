@@ -1,0 +1,7 @@
+﻿  cwiczenia_3.cpp
+C:\Users\jszpr\Desktop\jpo prezentowanie\cwiczenia_3\ConsoleApplication1\cwiczenia_3.cpp(96,22): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\jszpr\Desktop\jpo prezentowanie\cwiczenia_3\ConsoleApplication1\cwiczenia_3.cpp(96,40): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\jszpr\Desktop\jpo prezentowanie\cwiczenia_3\ConsoleApplication1\cwiczenia_3.cpp(105,26): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\jszpr\Desktop\jpo prezentowanie\cwiczenia_3\ConsoleApplication1\cwiczenia_3.cpp(106,31): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\jszpr\Desktop\jpo prezentowanie\cwiczenia_3\ConsoleApplication1\cwiczenia_3.cpp(106,49): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  ConsoleApplication1.vcxproj -> C:\Users\jszpr\Desktop\jpo prezentowanie\cwiczenia_3\x64\Debug\ConsoleApplication1.exe

@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Jerzor\Desktop\temat_3\ConsoleApplication1\ConsoleApplication1.cpp(109,22): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Jerzor\Desktop\temat_3\ConsoleApplication1\ConsoleApplication1.cpp(109,40): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Jerzor\Desktop\temat_3\ConsoleApplication1\ConsoleApplication1.cpp(118,26): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Jerzor\Desktop\temat_3\ConsoleApplication1\ConsoleApplication1.cpp(119,31): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Jerzor\Desktop\temat_3\ConsoleApplication1\ConsoleApplication1.cpp(119,49): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  ConsoleApplication1.vcxproj -> C:\Users\Jerzor\Desktop\temat_3\Debug\ConsoleApplication1.exe
